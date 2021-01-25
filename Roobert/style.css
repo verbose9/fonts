@@ -1,0 +1,72 @@
+@font-face {
+	src: url("./Roobert-Regular.otf");
+	font-weight: 400;
+	font-family: "Roobert";
+	font-style: normal;
+}
+@font-face {
+	src: url("./Roobert-RegularItalic.otf");
+	font-weight: 400;
+	font-family: "Roobert";
+	font-style: italic;
+}
+@font-face {
+	src: url("./Roobert-Medium.otf");
+	font-weight: 500;
+	font-family: "Roobert";
+	font-style: normal;
+}
+@font-face {
+	src: url("./Roobert-MediumItalic.otf");
+	font-weight: 500;
+	font-family: "Roobert";
+	font-style: italic;
+}
+@font-face {
+	src: url("./Roobert-Bold.otf");
+	font-weight: 700;
+	font-family: "Roobert";
+	font-style: normal;
+}
+@font-face {
+	src: url("./Roobert-BoldItalic.otf");
+	font-weight: 700;
+	font-family: "Roobert";
+	font-style: italic;
+}
+@font-face {
+	src: url("./Roobert-Light.otf");
+	font-weight: 300;
+	font-family: "Roobert";
+	font-style: normal;
+}
+@font-face {
+	src: url("./Roobert-LightItalic.otf");
+	font-weight: 300;
+	font-family: "Roobert";
+	font-style: italic;
+}
+@font-face {
+	src: url("./Roobert-SemiBold.otf");
+	font-weight: 600;
+	font-family: "Roobert";
+	font-style: normal;
+}
+@font-face {
+	src: url("./Roobert-SemiBoldItalic.otf");
+	font-weight: 600;
+	font-family: "Roobert";
+	font-style: italic;
+}
+@font-face {
+	src: url("./Roobert-Heavy.otf");
+	font-weight: 900;
+	font-family: "Roobert";
+	font-style: italic;
+}
+@font-face {
+	src: url("./Roobert-HeavyItalic.otf");
+	font-weight: 900;
+	font-family: "Roobert";
+	font-style: italic;
+}
