@@ -62,7 +62,7 @@
 	src: url("./Roobert-Heavy.otf");
 	font-weight: 900;
 	font-family: "Roobert";
-	font-style: italic;
+	font-style: normal;
 }
 @font-face {
 	src: url("./Roobert-HeavyItalic.otf");
